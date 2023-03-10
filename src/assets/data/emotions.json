@@ -1,0 +1,307 @@
+[
+    {
+        "word": "Happy",
+        "transcription": "ˈhæpi",
+        "translation": "Счастливый"
+    },
+    {
+        "word": "Afraid",
+        "transcription": "əˈfreɪd",
+        "translation": "Испуганный"
+    },
+    {
+        "word": "Sad",
+        "transcription": "sæd",
+        "translation": "Грустный"
+    },
+    {
+        "word": "Hot",
+        "transcription": "hɒt",
+        "translation": "разгорячённый; раздражённый;"
+    },
+    {
+        "word": "Amused",
+        "transcription": "əˈmjuːzd",
+        "translation": "изумлённый; приятно удивлённый;"
+    },
+    {
+        "word": "Bored",
+        "transcription": "bɔːd",
+        "translation": "скучающий; подавленный; безрадостный"
+    },
+    {
+        "word": "Anxious",
+        "transcription": "ˈæŋkʃəs",
+        "translation": "Тревожный"
+    },
+    {
+        "word": "Confident",
+        "transcription": "ˈkɒnfɪdənt",
+        "translation": "Уверенный"
+    },
+    {
+        "word": "Cold",
+        "transcription": "kəʊld",
+        "translation": " неприветливый; сухой; безучастный; равнодушный; "
+    },
+    {
+        "word": "Suspicious",
+        "transcription": "səsˈpɪʃəs",
+        "translation": "сомнительный; подозрительный; недоверчивый; насторожённый "
+    },
+    {
+        "word": "Surprised",
+        "transcription": "səˈpraɪzd",
+        "translation": "удивленный"
+    },
+    {
+        "word": "Loving",
+        "transcription": "ˈlʌvɪŋ",
+        "translation": "нежный; верный; любовный; любвеобильный"
+    },
+    {
+        "word": "Curious",
+        "transcription": "ˈkjʊərɪəs",
+        "translation": "Любопытный"
+    },
+    {
+        "word": "Envious",
+        "transcription": "ˈɛnvɪəs",
+        "translation": "завистливый"
+    },
+    {
+        "word": "Jealous",
+        "transcription": "ˈʤɛləs",
+        "translation": "Ревнивый"
+    },
+    {
+        "word": "Miserable",
+        "transcription": "ˈmɪzərəbᵊl",
+        "translation": "Убогий; скверный; бедственный;  паршивый; раздосадованный"
+    },
+    {
+        "word": "Confused",
+        "transcription": "kənˈfjuːzd",
+        "translation": "Смущенный"
+    },
+    {
+        "word": "Stupid",
+        "transcription": "ˈstjuːpɪd",
+        "translation": "Глупый"
+    },
+    {
+        "word": "Angry",
+        "transcription": "ˈæŋɡri",
+        "translation": "Злой"
+    },
+    {
+        "word": "Sick",
+        "transcription": "sɪk",
+        "translation": "Больной"
+    },
+    {
+        "word": "Ashamed",
+        "transcription": "əˈʃeɪmd",
+        "translation": "Стыдящийся"
+    },
+    {
+        "word": "Withdrawn",
+        "transcription": "wɪðˈdrɔːn",
+        "translation": "замкнутый (человек); ушедший в себя; отрешённый"
+    },
+    {
+        "word": "Indifferent",
+        "transcription": "ɪnˈdɪfrənt",
+        "translation": "равнодушный; посредственный; безразличный; индифферентный; нейтральный; беспристрастный; незаинтересованный;"
+    },
+    {
+        "word": "Sorry",
+        "transcription": "ˈsɒri",
+        "translation": "сожалеющий; несчастный; мрачный; полный сожаления;"
+    },
+    {
+        "word": "Determined",
+        "transcription": "dɪˈtɜːmɪnd",
+        "translation": "полный решимости; непреклонный; принявший решение; твёрдый;"
+    },
+    {
+        "word": "Crazy",
+        "transcription": "ˈkreɪzi",
+        "translation": "Сумасшедший"
+    },
+    {
+        "word": "Bashful",
+        "transcription": "ˈbæʃfʊl",
+        "translation": "Застенчивый"
+    },
+    {
+        "word": "Depressed",
+        "transcription": "dɪˈprɛst",
+        "translation": "угнетённый; унылый; расстроенный; удручающий"
+    },
+    {
+        "word": "Enraged",
+        "transcription": "ɪnˈreɪʤd",
+        "translation": "Разъяренный"
+    },
+    {
+        "word": "Frightened",
+        "transcription": "ˈfraɪtnd",
+        "translation": "Испуганный"
+    },
+    {
+        "word": "Interested",
+        "transcription": "ˈɪntrɪstɪd",
+        "translation": "заинтересованный; интересующийся; внимательный; корыстный; преследующий личную выгоду; пристрастный; предвзятый;"
+    },
+    {
+        "word": "Shy",
+        "transcription": "ʃaɪ",
+        "translation": "Застенчивый"
+    },
+    {
+        "word": "Hopeful",
+        "transcription": "ˈhəʊpfʊl",
+        "translation": "надеющийся; обнадёживающий; подающий надежды; подающий надежды человек; многообещающий; полный надежд; питающий надежду"
+    },
+    {
+        "word": "Regretful",
+        "transcription": "rɪˈɡrɛtfʊl",
+        "translation": "полный сожаления; опечаленный; раскаивающийся; полный раскаяния"
+    },
+    {
+        "word": "Scared",
+        "transcription": "skeəd",
+        "translation": "Испуганный"
+    },
+    {
+        "word": "Stubborn",
+        "transcription": "ˈstʌbən",
+        "translation": "Упрямый"
+    },
+    {
+        "word": "Thirsty",
+        "transcription": "ˈθɜːsti",
+        "translation": "испытывающий жажду; томимый; мучимый жаждой;"
+    },
+    {
+        "word": "Guilty",
+        "transcription": "ˈɡɪlti",
+        "translation": "Виновный"
+    },
+    {
+        "word": "Nervous",
+        "transcription": "ˈnɜːvəs",
+        "translation": "Нервный"
+    },
+    {
+        "word": "Embarrassed",
+        "transcription": "ɪmˈbærəst",
+        "translation": "Смущенный"
+    },
+    {
+        "word": "Disgusted",
+        "transcription": "dɪsˈɡʌstɪd",
+        "translation": "чувствующий отвращение; гадливый"
+    },
+    {
+        "word": "Proud",
+        "transcription": "praʊd",
+        "translation": "Гордый"
+    },
+    {
+        "word": "Ecstatic",
+        "transcription": "ɛksˈtætɪk",
+        "translation": "восторженный"
+    },
+    {
+        "word": "Lonely",
+        "transcription": "ˈləʊnli",
+        "translation": "Одинокий"
+    },
+    {
+        "word": "Frustrated",
+        "transcription": "frʌsˈtreɪtɪd",
+        "translation": "Расстроенный"
+    },
+    {
+        "word": "Hurt",
+        "transcription": "hɜːt",
+        "translation": "раненый; травмированный;  задетый; обиженный; оскорблённый;"
+    },
+    {
+        "word": "Hungry",
+        "transcription": "ˈhʌŋɡri",
+        "translation": "Голодный"
+    },
+    {
+        "word": "Tired",
+        "transcription": "ˈtaɪəd",
+        "translation": "Усталый"
+    },
+    {
+        "word": "Smug",
+        "transcription": "smʌɡ",
+        "translation": "Самодовольный; чопорный; подтянутый; щеголеватый;"
+    },
+    {
+        "word": "Thoughtful",
+        "transcription": "θɔːtfʊl",
+        "translation": "задумчивый; вдумчивый; внимательный; заботливый"
+    },
+    {
+        "word": "Pained",
+        "transcription": "peɪnd",
+        "translation": "страдальческий; обиженный; огорчённый; с болью"
+    },
+    {
+        "word": "Optimistic",
+        "transcription": "ˌɒptɪˈmɪstɪk",
+        "translation": "Оптимистичный"
+    },
+    {
+        "word": "Relieved",
+        "transcription": "rɪˈliːvd",
+        "translation": "испытывающий облегчение; облегчённый;"
+    },
+    {
+        "word": "Puzzled",
+        "transcription": "ˈpʌzld",
+        "translation": "в недоумении; озадаченный; оторопелый; сбитый с толку; растерявшийся"
+    },
+    {
+        "word": "Shocked",
+        "transcription": "ʃɒkt",
+        "translation": "потрясенный; шокированный"
+    },
+    {
+        "word": "Joyful",
+        "transcription": "ˈʤɔɪfʊl",
+        "translation": "радостный"
+    },
+    {
+        "word": "Sleepy",
+        "transcription": "ˈsliːpi",
+        "translation": "Сонный"
+    },
+    {
+        "word": "Excited",
+        "transcription": "ɪkˈsaɪtɪd",
+        "translation": "Взволнованный"
+    },
+    {
+        "word": "Skeptical",
+        "transcription": "ˈskɛptɪkəl",
+        "translation": "Скептический"
+    },
+    {
+        "word": "Bad",
+        "transcription": "bæd",
+        "translation": "плохой; дурной; скверный; безнравственный; развращённый; неблагоприятный; неподходящий; недействительный;"
+    },
+    {
+        "word": "Worried",
+        "transcription": "ˈwʌrid ",
+        "translation": "озабоченный; обеспокоенный; взволнованный; тревожный; издёрганный"
+    }
+]

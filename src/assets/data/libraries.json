@@ -1,0 +1,59 @@
+[
+{
+    "library": "illnesses",
+    "description": "Illnesses and injuries"
+},
+{
+    "library": "clothes",
+    "description": "Clothes and Fashion"
+},
+{
+    "library": "adverbs",
+    "description": "Adverbs and adverbial phrases"
+},
+{
+    "library": "weather",
+    "description": "Weather"
+},
+{
+    "library": "feelings",
+    "description": "Feelings"
+},
+{
+    "library": "lesson",
+    "description": "Lessons' words"
+},
+{
+    "library": "body",
+    "description": "Human Body"
+},
+{
+    "library": "person",
+    "description": "Person Descriptions"
+},
+{
+    "library": "negative",
+    "description": "Person Negative Descriptions"
+},
+{
+    "library": "adjectives",
+    "description": "Adjectives for Descriptions"
+},
+{
+    "library": "emotions",
+    "description": "Feelings & Emotions"
+},
+{
+    "library": "food",
+    "description": "Food and Dishes"
+},
+{
+    "library": "cottage",
+    "description": "The Cottage (reading)"
+},
+{
+    "library": "timegone",
+    "description": "A Time Gone by (reading)"
+}
+
+]

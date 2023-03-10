@@ -1,0 +1,217 @@
+[
+    {
+        "word": "cough",
+        "transcription": "kɒf",
+        "translation": "Кашель"
+    },
+    {
+        "word": "headache",
+        "transcription": "ˈhɛdeɪk",
+        "translation": "Головная боль"
+    },
+    {
+        "word": "earache",
+        "transcription": "ˈɪəreɪk",
+        "translation": "Боль в ухе"
+    },
+    {
+        "word": "stomach ache",
+        "transcription": "ˈstʌmək eɪk",
+        "translation": "Боль в животе"
+    },
+    {
+        "word": "toothache",
+        "transcription": "ˈtuːθeɪk",
+        "translation": "Зубная боль"
+    },
+    {
+        "word": "rash",
+        "transcription": "ræʃ",
+        "translation": "сыпь"
+    },
+    {
+        "word": "temperature",
+        "transcription": "ˈtɛmprɪʧə",
+        "translation": "температура"
+    },
+    {
+        "word": "sunburn",
+        "transcription": "ˈsʌnbɜːn",
+        "translation": "Солнечный ожог"
+    },
+    {
+        "word": "She’s being sick",
+        "transcription": "ʃiːz ˈbiːɪŋ sɪk",
+        "translation": "тошнит"
+    },
+    {
+        "word": "She’s vomiting",
+        "transcription": "ʃiːz ˈvɒmɪtɪŋ",
+        "translation": "рвет"
+    },
+    {
+        "word": "She’s sneezing",
+        "transcription": "ʃiːz ˈsniːzɪŋ",
+        "translation": "чихает"
+    },
+    {
+        "word": "Her ankle is swollen",
+        "transcription": "hɜːr ˈæŋkl ɪz ˈswəʊlən",
+        "translation": "опухла лодыжка"
+    },
+    {
+        "word": "Her back hurts",
+        "transcription": "hɜː bæk hɜːts",
+        "translation": "У нее болит спина"
+    },
+    {
+        "word": "Her back aches",
+        "transcription": "hɜː bæk eɪks",
+        "translation": "У нее боли в спине"
+    },
+    {
+        "word": "Her finger is bleeding",
+        "transcription": "hɜː ˈfɪŋɡər ɪz ˈbliːdɪŋ ",
+        "translation": "Кровоточит палец"
+    },
+    {
+        "word": "sore throat",
+        "transcription": "sɔː θrəʊt",
+        "translation": "Боль в горле"
+    },
+    {
+        "word": "diarrhoea",
+        "transcription": "ˌdaɪəˈrɪə",
+        "translation": "Диарея"
+    },
+    {
+        "word": "feel sick",
+        "transcription": "fiːl sɪk",
+        "translation": "испытывать тошноту"
+    },
+    {
+        "word": "fainted",
+        "transcription": "ˈfeɪntɪd",
+        "translation": "в обмороке"
+    },
+    {
+        "word": "blister",
+        "transcription": "ˈblɪstə",
+        "translation": "мозоль"
+    },
+    {
+        "word": "cold",
+        "transcription": "kəʊld",
+        "translation": "простуда"
+    },
+    {
+        "word": "flu",
+        "transcription": "fluː",
+        "translation": "грипп"
+    },
+    {
+        "word": "dizzy",
+        "transcription": "ˈdɪzi",
+        "translation": "головокружение"
+    },
+    {
+        "word": "infection",
+        "transcription": "ɪnˈfɛkʃᵊn",
+        "translation": "инфекция"
+    },
+    {
+        "word": "an allergic reaction",
+        "transcription": "ən əˈlɜːʤɪk riˈækʃᵊn",
+        "translation": "Аллергическая реакция"
+    },
+    {
+        "word": "a sprained ankle",
+        "transcription": "ə spreɪnd ˈæŋkl ",
+        "translation": "вывихнул лодыжку"
+    },
+    {
+        "word": "coach",
+        "transcription": "kəʊʧ",
+        "translation": "кушетка"
+    },
+    {
+        "word": "examine",
+        "transcription": "ɪɡˈzæmɪn",
+        "translation": "осмотр"
+    },
+    {
+        "word": "passed out",
+        "transcription": "pɑːst aʊt",
+        "translation": "отключиться, упасть в обморок"
+    },
+    {
+        "word": "came round",
+        "transcription": "keɪm raʊnd",
+        "translation": "прийти в себя"
+    },
+    {
+        "word": "get over",
+        "transcription": "ɡɛt ˈəʊvə",
+        "translation": "вылечиться"
+    },
+    {
+        "word": "throw up",
+        "transcription": "θrəʊ ʌp ",
+        "translation": "вырвать (тошнота)"
+    },
+    {
+        "word": "painkiller",
+        "transcription": "ˈpeɪnˌkɪlə",
+        "translation": "обезболивающее"
+    },
+    {
+        "word": "stitches",
+        "transcription": "ˈstɪʧɪz",
+        "translation": "швы"
+    },
+    {
+        "word": "unconscious",
+        "transcription": "ʌnˈkɒnʃəs",
+        "translation": "без сознания"
+    },
+    {
+        "word": "twisted",
+        "transcription": "ˈtwɪstɪd",
+        "translation": "вывих"
+    },
+    {
+        "word": "sprained",
+        "transcription": "spreɪnd",
+        "translation": "растяжение"
+    },
+    {
+        "word": "high blood pressure",
+        "transcription": "haɪ blʌd ˈprɛʃə",
+        "translation": "повышенное кровяное давление"
+    },
+    {
+        "word": "food poisoning",
+        "transcription": "fuːd ˈpɔɪznɪŋ",
+        "translation": "пищевое отравление"
+    },
+    {
+        "word": "choking",
+        "transcription": "ˈʧəʊkɪŋ",
+        "translation": "удушение"
+    },
+    {
+        "word": "burnt",
+        "transcription": "bɜːnt ",
+        "translation": "ожог"
+    },
+    {
+        "word": "illness",
+        "transcription": "ˈɪlnɪs",
+        "translation": "болезнь"
+    },
+    {
+        "word": "injury",
+        "transcription": "ˈɪnʤəri ",
+        "translation": "травма"
+    }
+]

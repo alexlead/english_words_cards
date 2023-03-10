@@ -1,0 +1,542 @@
+[
+    {
+        "word": "meat",
+        "transcription": "mit ",
+        "translation": "мясо"
+    },
+    {
+        "word": "fish",
+        "transcription": "fɪʃ ",
+        "translation": "рыба"
+    },
+    {
+        "word": "eggs",
+        "transcription": "ɛgz ",
+        "translation": "яйца"
+    },
+    {
+        "word": "milk",
+        "transcription": "mɪlk ",
+        "translation": "молоко"
+    },
+    {
+        "word": "butter",
+        "transcription": "ˈbʌtər ",
+        "translation": "сливочное масло"
+    },
+    {
+        "word": "cheese",
+        "transcription": "ʧiz ",
+        "translation": "сыр"
+    },
+    {
+        "word": "mayonnaise",
+        "transcription": "ˈmeɪəˌneɪz ",
+        "translation": "майонез"
+    },
+    {
+        "word": "juice",
+        "transcription": "ʤus ",
+        "translation": "сок"
+    },
+    {
+        "word": "cake",
+        "transcription": "keɪk",
+        "translation": "торт"
+    },
+    {
+        "word": "Cabinets",
+        "transcription": "ˈkæbɪnɪts",
+        "translation": "шкафчики"
+    },
+    {
+        "word": "bread",
+        "transcription": "ˈbɛriz",
+        "translation": "хлеб"
+    },
+    {
+        "word": "bans",
+        "transcription": "ˈhɛlθi ˈdaɪət",
+        "translation": "булочки"
+    },
+    {
+        "word": "porridge",
+        "transcription": "ʌnˈhɛlθi ˈdaɪət ",
+        "translation": "овсяная каша"
+    },
+    {
+        "word": "jam",
+        "transcription": "ʤæm ",
+        "translation": "варенье"
+    },
+    {
+        "word": "oil",
+        "transcription": "ɔɪl ",
+        "translation": "растительное масло"
+    },
+    {
+        "word": "sugar",
+        "transcription": "ˈʃʊgər ",
+        "translation": "сахар"
+    },
+    {
+        "word": "cereal",
+        "transcription": "ˈsɪriəl ",
+        "translation": "хлопья/сухой завтрак"
+    },
+    {
+        "word": "pasta",
+        "transcription": "ˈpɑstə ",
+        "translation": "макаронные изделия"
+    },
+    {
+        "word": "flour",
+        "transcription": "ˈflaʊər ",
+        "translation": "мука"
+    },
+    {
+        "word": "coffee",
+        "transcription": "ˈkɑfi ",
+        "translation": "кофе"
+    },
+    {
+        "word": "tea",
+        "transcription": "ti ",
+        "translation": "чай"
+    },
+    {
+        "word": "herbs",
+        "transcription": "ɜrbz ",
+        "translation": "травы"
+    },
+    {
+        "word": "spices",
+        "transcription": "ˈspaɪsəz ",
+        "translation": "специи"
+    },
+    {
+        "word": "rice",
+        "transcription": "raɪs ",
+        "translation": "рис"
+    },
+    {
+        "word": "biscuits",
+        "transcription": "ˈbɪskəts ",
+        "translation": "печенье"
+    },
+    {
+        "word": "sweets",
+        "transcription": "swits ",
+        "translation": "сладости"
+    },
+    {
+        "word": "candies",
+        "transcription": "ˈkændiz ",
+        "translation": "конфеты"
+    },
+    {
+        "word": "chocolate",
+        "transcription": "ˈʧɔklət",
+        "translation": "шоколад"
+    },
+    {
+        "word": "cabbage",
+        "transcription": "ˈkæbəʤ ",
+        "translation": "капуста"
+    },
+    {
+        "word": "potatoes",
+        "transcription": "pəˈteɪtoʊz ",
+        "translation": "картофель"
+    },
+    {
+        "word": "tomatoes",
+        "transcription": "təˈmeɪtoʊz",
+        "translation": "помидоры"
+    },
+    {
+        "word": "beetroot",
+        "transcription": "ˈbiːtruːt",
+        "translation": "свекла"
+    },
+    {
+        "word": "onion",
+        "transcription": "ˈʌnjən ",
+        "translation": "лук"
+    },
+    {
+        "word": "cucumber",
+        "transcription": "ˈkjukəmbər ",
+        "translation": "огурец"
+    },
+    {
+        "word": "carrots",
+        "transcription": "ˈkærəts ",
+        "translation": "морковь"
+    },
+    {
+        "word": "vegetable marrow",
+        "transcription": "ˈvɛʤtəbəl ˈmɛroʊ ",
+        "translation": "кабачок"
+    },
+    {
+        "word": "egg plant",
+        "transcription": "ɛg plænt ",
+        "translation": "баклажан"
+    },
+    {
+        "word": "sweet corn",
+        "transcription": "swit kɔrn ",
+        "translation": "сладкая кукуруза"
+    },
+{
+    "word": "beans",
+    "transcription": "binz ",
+    "translation": "фасоль"
+},
+{
+    "word": "mushrooms",
+    "transcription": "ˈmʌʃrumz",
+    "translation": "грибы"
+},
+{
+    "word": "apples",
+    "transcription": "ˈæplz ",
+    "translation": "яблоки"
+},
+{
+    "word": "bananas",
+    "transcription": "bəˈnɑːnəz",
+    "translation": "бананы"
+},
+{
+    "word": "grapes",
+    "transcription": "greɪps ",
+    "translation": "виноград"
+},
+{
+    "word": "melon",
+    "transcription": "ˈmɛlən ",
+    "translation": "дыня"
+},
+{
+    "word": "water melon",
+    "transcription": "ˈwɔːtə ˈmɛlən ",
+    "translation": "арбуз"
+},
+{
+    "word": "orange",
+    "transcription": "ˈɒrɪnʤ",
+    "translation": "апельсин"
+},
+{
+    "word": "Berries",
+    "transcription": "ˈbɛriz ",
+    "translation": "ягоды"
+},
+{
+    "word": "strawberries",
+    "transcription": "ˈstrɔːbəriz",
+    "translation": "клубника"
+},
+{
+    "word": "blueberries",
+    "transcription": "ˈbluːbəriz",
+    "translation": "черника"
+},
+{
+    "word": "cherry",
+    "transcription": "ˈʧɛri",
+    "translation": "вишня"
+},
+{
+    "word": "raspberry",
+    "transcription": "ˈrɑːzbəri ",
+    "translation": "малина"
+},
+{
+    "word": "(ripe)",
+    "transcription": "(raɪp)",
+    "translation": "спелый"
+},
+{
+    "word": "pork",
+    "transcription": "pɔːk ",
+    "translation": "свинина"
+},
+{
+    "word": "veal",
+    "transcription": "viːl ",
+    "translation": "телятина"
+},
+{
+    "word": "lamb/mutton",
+    "transcription": "læm/ˈmʌtn  ",
+    "translation": "ягненок / баранина"
+},
+{
+    "word": "turkey",
+    "transcription": "ˈtɜːki ",
+    "translation": "индейка"
+},
+{
+    "word": "duck",
+    "transcription": "dʌk ",
+    "translation": "утка"
+},
+{
+    "word": "chicken",
+    "transcription": "ˈʧɪkɪn ",
+    "translation": "курица"
+},
+{
+    "word": "sausage",
+    "transcription": "ˈsɒsɪʤ ",
+    "translation": "колбаса"
+},
+{
+    "word": "ham",
+    "transcription": "hæm ",
+    "translation": "ветчина"
+},
+{
+    "word": "kidney",
+    "transcription": "ˈkɪdni ",
+    "translation": "почка"
+},
+{
+    "word": "liver",
+    "transcription": "ˈlɪvə",
+    "translation": "печень"
+},
+{
+    "word": "salmon",
+    "transcription": "ˈsæmən  ",
+    "translation": "лосось"
+},
+{
+    "word": "tuna",
+    "transcription": "ˈtuːnə",
+    "translation": "тунец"
+},
+{
+    "word": "mussels",
+    "transcription": "ˈmʌslz  ",
+    "translation": "мидии"
+},
+{
+    "word": "clams",
+    "transcription": "klæmz ",
+    "translation": "моллюски"
+},
+{
+    "word": "prawns/shrimps",
+    "transcription": "prɔːnz/ʃrɪmps  ",
+    "translation": "креветки "
+},
+{
+    "word": "ousters",
+    "transcription": "ˈaʊstəz ",
+    "translation": "устрицы"
+},
+{
+    "word": "crabs",
+    "transcription": "kræbz ",
+    "translation": "крабы"
+},
+{
+    "word": "shellfish",
+    "transcription": "ˈʃɛlfɪʃ ",
+    "translation": "моллюск"
+},
+{
+    "word": "octopus",
+    "transcription": "ˈɒktəpəs ",
+    "translation": "осьминог"
+},
+{
+    "word": "squid",
+    "transcription": "skwɪd",
+    "translation": "кальмар"
+},
+{
+    "word": "boil in a pan",
+    "transcription": "bɔɪl ɪn ə pæn ",
+    "translation": "варить в кастрюле"
+},
+{
+    "word": "steam",
+    "transcription": "stiːm ",
+    "translation": "готовить на пару"
+},
+{
+    "word": "fry in a frying pan",
+    "transcription": "fraɪ ɪn ə ˈfraɪɪŋ pæn  ",
+    "translation": "жарить на сковороде"
+},
+{
+    "word": "bake/roast on a tray in the oven",
+    "transcription": "beɪk/rəʊst ɒn ə treɪ ɪn ði ˈʌvn  ",
+    "translation": "печь/запекать на противне в духовке"
+},
+{
+    "word": "grill",
+    "transcription": "grɪl ",
+    "translation": "готовить на гриле"
+},
+{
+    "word": "stew",
+    "transcription": "stjuː ",
+    "translation": "тушить"
+},
+{
+    "word": "cut",
+    "transcription": "kʌt",
+    "translation": "резать"
+},
+{
+    "word": "chop",
+    "transcription": "ʧɑp ",
+    "translation": "нарубить"
+},
+{
+    "word": "mash",
+    "transcription": "mæʃ ",
+    "translation": "толкти"
+},
+{
+    "word": "slice",
+    "transcription": "slaɪs ",
+    "translation": "резать ломтиками"
+},
+{
+    "word": "mix",
+    "transcription": "mɪks  ",
+    "translation": "смешивать"
+},
+{
+    "word": "stir",
+    "transcription": "stɜr ",
+    "translation": "размешать"
+},
+{
+    "word": "peel",
+    "transcription": "pil ",
+    "translation": "чистить"
+},
+{
+    "word": "add",
+    "transcription": "æd ",
+    "translation": "добавлять"
+},
+{
+    "word": "pour",
+    "transcription": "pɔr ",
+    "translation": "наливать"
+},
+{
+    "word": "grate",
+    "transcription": "greɪt",
+    "translation": "тереть"
+},
+{
+    "word": "porridge",
+    "transcription": "ˈpɔrəʤ ",
+    "translation": "овсяная каша"
+},
+{
+    "word": "cabbage rolls filled with meat and rice",
+    "transcription": "ˈkæbəʤ roʊlz fɪld wɪð mit ænd raɪs  ",
+    "translation": "голубцы с мясом и рисом"
+},
+{
+    "word": "beetroot soup with sour cream",
+    "transcription": "ˈbiːtruːt  sup wɪð ˈsaʊər krim ",
+    "translation": "борщ со сметаной"
+},
+{
+    "word": "ravioli",
+    "transcription": "ˌræviˈoʊli ",
+    "translation": "равиоли/пельмени"
+},
+{
+    "word": "potato pancakes",
+    "transcription": "pəˈteɪˌtoʊ ˈpænˌkeɪks ",
+    "translation": "картофельные оладушки"
+},
+{
+    "word": "pancakes with caviar",
+    "transcription": "ˈpænˌkeɪks wɪð ˈkæviˌɑr ",
+    "translation": "блины с икрой"
+},
+{
+    "word": "stewed fruits",
+    "transcription": "stud fruts ",
+    "translation": "компот"
+},
+{
+    "word": "pasties with cottage cheese",
+    "transcription": "ˈpeɪstiz wɪð ˈkɑtəʤ ʧiz  ",
+    "translation": "пирожки с творогом"
+},
+{
+    "word": "Easter cake (yeast, dough, raisings)",
+    "transcription": "ˈistər keɪk (jist, doʊ, ˈreɪzɪŋz",
+    "translation": "Кулич (дрожжи, тесто, изюминки)"
+},
+{
+    "word": "Healthy diet",
+    "transcription": "ˈhɛlθi ˈdaɪət",
+    "translation": "здоровая диета"
+},
+{
+    "word": "organic food",
+    "transcription": "ɔrˈgænɪk fud ",
+    "translation": "органическая еда"
+},
+{
+    "word": "clean water",
+    "transcription": "klin ˈwɔtər ",
+    "translation": "чистая вода"
+},
+{
+    "word": "green tea",
+    "transcription": "grin ti ",
+    "translation": "зеленый чай"
+},
+{
+    "word": "fruits and vegetables",
+    "transcription": "fruts ænd ˈvɛʤtəbəlz ",
+    "translation": "фрукты и овощи"
+},
+{
+    "word": "food which contains a lot of nutrients",
+    "transcription": "fud wɪʧ kənˈteɪnz ə lɑt ʌv ˈnutriənts  ",
+    "translation": "пища, которая содержит много питательных веществ"
+},
+{
+    "word": "raw vegetables",
+    "transcription": "rɑ ˈvɛʤtəbəlz",
+    "translation": "сырые овощи"
+},
+{
+    "word": "Unhealthy diet",
+    "transcription": "ʌnˈhɛlθi ˈdaɪət ",
+    "translation": "нездоровая диета"
+},
+{
+    "word": "smoked food",
+    "transcription": "sməʊkt fuːd ",
+    "translation": "копчености"
+},
+{
+    "word": "canned food",
+    "transcription": "kænd fuːd ",
+    "translation": "консервированные продукты"
+},
+{
+    "word": "snacks",
+    "transcription": "snæks ",
+    "translation": "закуски"
+}
+]

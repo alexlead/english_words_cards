@@ -1,0 +1,192 @@
+[
+    {
+        "word": "loose",
+        "transcription": "luːs",
+        "translation": "свободный"
+    },
+    {
+        "word": "tight",
+        "transcription": "taɪt",
+        "translation": "в обтяжку"
+    },
+    {
+        "word": "hooded",
+        "transcription": "ˈhʊdɪd",
+        "translation": "с капюшоном"
+    },
+    {
+        "word": "long sleeved",
+        "transcription": "lɒŋ sliːvd",
+        "translation": "с длинными рукавами"
+    },
+    {
+        "word": "short sleeved",
+        "transcription": "ʃɔːt sliːvd",
+        "translation": "с короткими рукавами"
+    },
+    {
+        "word": "sleeveless",
+        "transcription": "ˈsliːvləs",
+        "translation": "без рукавов"
+    },
+    {
+        "word": "V-neck",
+        "transcription": "ˈviːnɛk",
+        "translation": "V-образный вырез"
+    },
+    {
+        "word": "patterned",
+        "transcription": "ˈpætənd",
+        "translation": "узорчатый"
+    },
+    {
+        "word": "checked",
+        "transcription": "ʧɛkt",
+        "translation": "в клетку"
+    },
+    {
+        "word": "plain",
+        "transcription": "pleɪn",
+        "translation": "однотонный"
+    },
+    {
+        "word": "spotted",
+        "transcription": "ˈspɒtɪd",
+        "translation": "пятнистый (в горошек)"
+    },
+    {
+        "word": "striped",
+        "transcription": "straɪpt",
+        "translation": "в полоску"
+    },
+    {
+        "word": "cotton vest",
+        "transcription": "ˈkɒtn vɛst",
+        "translation": "хлопковый жилет"
+    },
+    {
+        "word": "denim waistcoat",
+        "transcription": "ˈdɛnɪm ˈweɪskəʊt",
+        "translation": "джинсовый жилет"
+    },
+    {
+        "word": "fur collar",
+        "transcription": "fɜː ˈkɒlə",
+        "translation": "меховой воротник"
+    },
+    {
+        "word": "lace top",
+        "transcription": "leɪs tɒp",
+        "translation": "кружевной топ"
+    },
+    {
+        "word": "linen suit",
+        "transcription": "ˈlɪnɪn sjuːt",
+        "translation": "льняной костюм"
+    },
+    {
+        "word": "lycra swimsuit",
+        "transcription": "ˈlaɪkrə ˈswɪmsuːt",
+        "translation": "лайкра купальник"
+    },
+    {
+        "word": "silk scarf",
+        "transcription": "sɪlk skɑːf",
+        "translation": "Шелковый шарф"
+    },
+    {
+        "word": "velvet bow tie",
+        "transcription": "ˈvɛlvɪt baʊ taɪ",
+        "translation": "бархатный галстук-бабочка"
+    },
+    {
+        "word": "wool (len) cardigan",
+        "transcription": "wʊl (len) ˈkɑːdɪɡən",
+        "translation": "шерстяной (лен) кардиган"
+    },
+    {
+        "word": "leather sandals",
+        "transcription": "ˈlɛðə ˈsændlz",
+        "translation": "кожаные сандалии"
+    },
+    {
+        "word": "suede boots",
+        "transcription": "sweɪd buːts",
+        "translation": "замшевые сапоги"
+    },
+    {
+        "word": "fashionable",
+        "transcription": "ˈfæʃnəbᵊl",
+        "translation": "модный"
+    },
+    {
+        "word": "Old-fashioned",
+        "transcription": "əʊld-ˈfæʃᵊnd",
+        "translation": "Старомодный"
+    },
+    {
+        "word": "scruffy",
+        "transcription": "ˈskrʌfi",
+        "translation": "неряшливый"
+    },
+    {
+        "word": "smart",
+        "transcription": "smɑːt",
+        "translation": "изящный"
+    },
+    {
+        "word": "stylish",
+        "transcription": "ˈstaɪlɪʃ",
+        "translation": "стильный"
+    },
+    {
+        "word": "trendy",
+        "transcription": "ˈtrɛndi",
+        "translation": "модный"
+    },
+    {
+        "word": "dress up",
+        "transcription": "drɛs ʌp",
+        "translation": "наряжаться"
+    },
+    {
+        "word": "hang up",
+        "transcription": "hæŋ ʌp",
+        "translation": "вешать трубку"
+    },
+    {
+        "word": "fit",
+        "transcription": "fɪt",
+        "translation": "соответствовать"
+    },
+    {
+        "word": "suit",
+        "transcription": "sjuːt",
+        "translation": "подходить"
+    },
+    {
+        "word": "match",
+        "transcription": "mæʧ",
+        "translation": "соответствовать"
+    },
+    {
+        "word": "get changed",
+        "transcription": "ɡɛt ʧeɪnʤd",
+        "translation": "переодеться"
+    },
+    {
+        "word": "get undressed",
+        "transcription": "ɡɛt ʌnˈdrɛst",
+        "translation": "раздеться"
+    },
+    {
+        "word": "get dressed",
+        "transcription": "ɡɛt drɛst",
+        "translation": "одеваться"
+    },
+    {
+        "word": "go with",
+        "transcription": "ɡəʊ wɪð ",
+        "translation": "подходить под (др вид одежды)"
+    }
+]

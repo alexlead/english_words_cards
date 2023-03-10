@@ -1,0 +1,492 @@
+[
+    {
+        "word": "desire",
+        "transcription": "dɪˈzaɪə",
+        "translation": "желание (сильное); страсть; вожделение; пожелание; мечта;"
+    },
+    {
+        "word": "settle down",
+        "transcription": "ˈsɛtl daʊn",
+        "translation": "браться (за какое-либо дело to); приниматься; погружаться; обосновываться; "
+    },
+    {
+        "word": "explore",
+        "transcription": "ɪksˈplɔː",
+        "translation": "изучать; исследовать; выяснять; обследовать;"
+    },
+    {
+        "word": "backpack",
+        "transcription": "ˈbækˌpæk",
+        "translation": "рюкзак;"
+    },
+    {
+        "word": "peace and quiet",
+        "transcription": "piːs ænd ˈkwaɪət",
+        "translation": "мир и тишина; тишь да гладь"
+    },
+    {
+        "word": "craved",
+        "transcription": "kreɪvd",
+        "translation": "жаждать; тосковать (по чему-либо);"
+    },
+    {
+        "word": "Thatched roof",
+        "transcription": "θæʧt ruːf",
+        "translation": "соломенная крыша; тростниковая крыша"
+    },
+    {
+        "word": "Inheritance",
+        "transcription": "ɪnˈhɛrɪtəns",
+        "translation": "наследование; унаследование; наследство; наследие; наследственность"
+    },
+    {
+        "word": "put down roots",
+        "transcription": "tuː “pʊt daʊn ruːts” ˈsʌmweə",
+        "translation": "произрасти; пустить корни; укореняться "
+    },
+    {
+        "word": "create havoc",
+        "transcription": "tuː kriˈeɪt ˈhævək",
+        "translation": "наносить огромные потери; нанести огромные потери"
+    },
+    {
+        "word": "Beggars can’t be choosers",
+        "transcription": "“ˈbɛɡəz kɑːnt biː ˈʧuːzəz”",
+        "translation": "нищий не выбирает; нужно довольствоваться тем, что есть"
+    },
+    {
+        "word": "Plethora",
+        "transcription": "ˈplɛθərə",
+        "translation": "изобилие; избыток; большой избыток; богатство"
+    },
+    {
+        "word": "Homely",
+        "transcription": "ˈhəʊmli",
+        "translation": "простой; непритязательный; скромный; безыскусный; домашний (брит.); неприглядный; близкий"
+    },
+    {
+        "word": "Substantial ",
+        "transcription": "səbˈstænʃəl ",
+        "translation": "по сути; по существу"
+    },
+    {
+        "word": "Overwhelming",
+        "transcription": "ˌəʊvəˈwɛlmɪŋ",
+        "translation": "огромный; подавляющий; непреодолимый; неподъёмный; невыносимый;"
+    },
+    {
+        "word": "Overgrown",
+        "transcription": "ˌəʊvəˈɡrəʊn",
+        "translation": "чрезмерно выросший; растущий без ухода (о растениях); неподстриженный; обросший; великовозрастный"
+    },
+    {
+        "word": "Legalities",
+        "transcription": "liːˈɡælətiz",
+        "translation": "обязанности, налагаемые законом; требования закона; юридическое оформление документов"
+    },
+    {
+        "word": "Determination",
+        "transcription": "dɪˌtɜːmɪˈneɪʃᵊn",
+        "translation": "решимость; решительность; определение; установление (границ и т. п.); "
+    },
+    {
+        "word": "put down a deposit",
+        "transcription": "tuː “pʊt daʊn ə dɪˈpɒzɪt”",
+        "translation": "внести залог"
+    },
+    {
+        "word": "breathe a sigh of relief",
+        "transcription": "tuː “briːð ə saɪ ɒv rɪˈliːf”",
+        "translation": "вздохнуть с облегчением; облегчённо вздохнуть"
+    },
+    {
+        "word": "Extension",
+        "transcription": "ɪksˈtɛnʃᵊn",
+        "translation": " Расширение; увеличение; продление; отсрочка; отводная трубка; добавочный номер"
+    },
+    {
+        "word": "Possession",
+        "transcription": "pəˈzɛʃᵊn",
+        "translation": "владение; обладание; зависимая территория; одержимость; собственность; имущество;"
+    },
+    {
+        "word": "Arduous",
+        "transcription": "ˈɑːdjʊəs",
+        "translation": "трудный; напряжённый; энергичный; крутой; труднодоступный;"
+    },
+    {
+        "word": "Renovation",
+        "transcription": "ˌrɛnəʊˈveɪʃᵊn",
+        "translation": "реставрация; освежение; обновление; реставрирование; косметический ремонт"
+    },
+    {
+        "word": "decent wages",
+        "transcription": "ˈdiːsnt ˈweɪʤɪz",
+        "translation": "достойная заработная плата"
+    },
+    {
+        "word": "van",
+        "transcription": "væn",
+        "translation": "фургон; багажный или товарный вагон; грузопассажирский автомобиль"
+    },
+    {
+        "word": "pricy accommodation",
+        "transcription": "pricy əˌkɒməˈdeɪʃᵊn",
+        "translation": "дорогое жилье"
+    },
+    {
+        "word": "decent",
+        "transcription": "ˈdiːsnt",
+        "translation": "приличный; благопристойный; скромный; пристойный; славный; сдержанный; нестрогий; достойный"
+    },
+    {
+        "word": "butchers",
+        "transcription": "ˈbʊʧəz",
+        "translation": "мясник; торговец мясом;"
+    },
+    {
+        "word": "wisteria",
+        "transcription": "wisteria",
+        "translation": "вистерия (вид деревьев)"
+    },
+    {
+        "word": "incredibly",
+        "transcription": "ɪnˈkrɛdəbᵊli",
+        "translation": "невероятно;  неправдоподобно;"
+    },
+    {
+        "word": "Sink (sank, sunk)",
+        "transcription": "sʌŋk",
+        "translation": "топить (судно); тонуть; ослабеть; гибнуть; погибнуть"
+    },
+    {
+        "word": "heart sunk",
+        "transcription": "hɑːt sʌŋk",
+        "translation": "сердце оборвалось; сердце ёкнуло; сердце замерло"
+    },
+    {
+        "word": "expansive",
+        "transcription": "ɪksˈpænsɪv",
+        "translation": "экспансивный; несдержанный; способный расширяться; обширный;"
+    },
+    {
+        "word": "fancy",
+        "transcription": "ˈfænsi",
+        "translation": "воображать; предполагать; полагать; напрасно надеяться; вообразить; "
+    },
+    {
+        "word": "unappreciative",
+        "transcription": "ˌʌnəˈpriːʃətɪv",
+        "translation": "неблагодарный"
+    },
+    {
+        "word": "bothered",
+        "transcription": "ˈbɒðəd",
+        "translation": "обеспокоенный"
+    },
+    {
+        "word": "shrug",
+        "transcription": "ʃrʌɡ",
+        "translation": "пожимать плечами; отмахиваться (nataliya trifonov"
+    },
+    {
+        "word": "beggars",
+        "transcription": "ˈbɛɡəz",
+        "translation": "нищие"
+    },
+    {
+        "word": "charity",
+        "transcription": "ˈʧærɪti",
+        "translation": "благотворительность"
+    },
+    {
+        "word": "perhaps",
+        "transcription": "pəˈhæps",
+        "translation": "возможно"
+    },
+    {
+        "word": "couch surf",
+        "transcription": "kaʊʧ sɜːf",
+        "translation": "отдыхать на диване"
+    },
+    {
+        "word": "appealing",
+        "transcription": "əˈpiːlɪŋ",
+        "translation": "обаятельный; привлекательный; вызывающий интерес; привлекающий внимание"
+    },
+    {
+        "word": "snooze",
+        "transcription": "ˈsnuːzɪŋ",
+        "translation": "вздремнуть; дремать; прикорнуть; бездельничать; лодырничать;"
+    },
+    {
+        "word": "quite",
+        "transcription": "kwaɪt",
+        "translation": "довольно"
+    },
+    {
+        "word": "screaming",
+        "transcription": "ˈskriːmɪŋ",
+        "translation": "кричащий"
+    },
+    {
+        "word": "snoring",
+        "transcription": "ˈsnɔːrɪŋ",
+        "translation": "храп"
+    },
+    {
+        "word": "occupied",
+        "transcription": "ˈɒkjʊpaɪd",
+        "translation": "занятый"
+    },
+    {
+        "word": "soil",
+        "transcription": "sɔɪl",
+        "translation": "земля; грязь; пятно; экскременты; нечистоты;"
+    },
+    {
+        "word": "utterly",
+        "transcription": "ˈʌtəli",
+        "translation": "крайне; чрезвычайно; до смерти; дотла; смерть как; насмерть; донельзя"
+    },
+    {
+        "word": "utterly delighted",
+        "transcription": "ˈʌtəli dɪˈlaɪtɪd",
+        "translation": "в полном восторге"
+    },
+    {
+        "word": "pass away",
+        "transcription": "pɑːs əˈweɪ",
+        "translation": "скончаться"
+    },
+    {
+        "word": "devastated",
+        "transcription": "ˈdɛvəsteɪtɪd",
+        "translation": "потрясенный"
+    },
+    {
+        "word": "edge",
+        "transcription": "ɛʤ",
+        "translation": "край; кромка; опушка; окраина; крайность; острие "
+    },
+    {
+        "word": "inspirational",
+        "transcription": "ˌɪnspəˈreɪʃᵊnᵊl",
+        "translation": "вдохновляющий"
+    },
+    {
+        "word": "abroad",
+        "transcription": "əˈbrɔːd",
+        "translation": "за границей"
+    },
+    {
+        "word": "vibe",
+        "transcription": "vaɪb",
+        "translation": "предчувствие; настрой; энергетика; атмосфера"
+    },
+    {
+        "word": "welcoming vibe",
+        "transcription": "ˈwɛlkəmɪŋ vaɪb",
+        "translation": "приветственная атмосфера"
+    },
+    {
+        "word": "ceilings",
+        "transcription": "ˈsiːlɪŋz",
+        "translation": "потолки"
+    },
+    {
+        "word": "to get rid",
+        "transcription": "tuː ɡɛt rɪd",
+        "translation": "развязаться; развязываться; сплавить; выкинуть из головы (of); избавляться (of);"
+    },
+    {
+        "word": "jetlag",
+        "transcription": "jetlag",
+        "translation": "синдром смены часовых поясов; расстройство суточных биоритмов, вызванное сменой часовых поясов "
+    },
+    {
+        "word": "dismay",
+        "transcription": "dɪsˈmeɪ",
+        "translation": "смятение; тревога; испуг; уныние; переполох; жуткость; жуть; разочарование; огорчение"
+    },
+    {
+        "word": "cuddly",
+        "transcription": "ˈkʌdli",
+        "translation": "аппетитный (о женщине или о мужчине); приятный; привлекательный; хорошенький"
+    },
+    {
+        "word": "feeling confused",
+        "transcription": "ˈfiːlɪŋ kənˈfjuːzd",
+        "translation": "сбит с толку"
+    },
+    {
+        "word": "devour",
+        "transcription": "dɪˈvaʊəd",
+        "translation": "есть жадно; проглатывать; истреблять; уничтожать; мучить (об угрызениях совести); уничтожить; глотать; жрать; жадно есть; давясь;"
+    },
+    {
+        "word": "Afterwards",
+        "transcription": "ˈɑːftəwədz",
+        "translation": "После"
+    },
+    {
+        "word": "unworthy",
+        "transcription": "ʌnˈwɜːði",
+        "translation": "недостойный; низкий; подлый; презренный; неподходящий; "
+    },
+    {
+        "word": "spoilt",
+        "transcription": "spɔɪlt",
+        "translation": "испорченный"
+    },
+    {
+        "word": "lass",
+        "transcription": "læs",
+        "translation": "девушка; служанка; девочка; возлюбленная; малышка "
+    },
+    {
+        "word": "to manifest",
+        "transcription": "tuː ˈmænɪfɛst",
+        "translation": "делать очевидным; ясно показывать; проявлять; служить доказательством; обнародовать; издать манифест; проявляться; обнаружить"
+    },
+    {
+        "word": "to shake off",
+        "transcription": "tuː ʃeɪk ɒf",
+        "translation": "стряхнуть"
+    },
+    {
+        "word": "concerns",
+        "transcription": "kənˈsɜːnz",
+        "translation": "вопросы, вызывающие озабоченность; проблемы, требующие решения; опасения; озабоченность"
+    },
+    {
+        "word": "lawn",
+        "transcription": "lɔːn",
+        "translation": "лужайка"
+    },
+    {
+        "word": "rein",
+        "transcription": "reɪn",
+        "translation": "держать в узде; управлять; управлять вожжами; слушаться вожжей; обуздать"
+    },
+    {
+        "word": "justice",
+        "transcription": "ˈʤʌstɪs",
+        "translation": "справедливость (dasha_sagidullina); правосудие; юстиция; законность (чего-либо);"
+    },
+    {
+        "word": "distinctly",
+        "transcription": "dɪsˈtɪŋktli",
+        "translation": "несомненно; категорично; совершенно; отчётливо; ясно; недвусмысленно; "
+    },
+    {
+        "word": "politely",
+        "transcription": "pəˈlaɪtli",
+        "translation": "вежливо; любезно; обходительно; по-хорошему"
+    },
+    {
+        "word": "decline",
+        "transcription": "dɪˈklaɪnd",
+        "translation": "отклонить"
+    },
+    {
+        "word": "reassess",
+        "transcription": "ˌriːəˈsɛs",
+        "translation": "подвергать переоценке, пересмотру (мнения); подвергать переоценке; подвергать пересмотру (мнения и т.п.); производить переоценку"
+    },
+    {
+        "word": "figure out",
+        "transcription": "ˈfɪɡər aʊt",
+        "translation": "выражаться (в цифрах at); вычислять; вычислить; понять; постичь; понимать; "
+    },
+    {
+        "word": "havoc",
+        "transcription": "ˈhævək",
+        "translation": "хаос"
+    },
+    {
+        "word": "attentively",
+        "transcription": "əˈtɛntɪvli",
+        "translation": "внимательно"
+    },
+    {
+        "word": "hover over",
+        "transcription": "ˈhɒvəd ˈəʊvə",
+        "translation": "стоять над душой, наседать"
+    },
+    {
+        "word": "bypass",
+        "transcription": "ˈbaɪpɑːs",
+        "translation": "идти обходным путём; вилять; хитрить;  обойти;"
+    },
+    {
+        "word": "lengthy",
+        "transcription": "ˈlɛŋθi",
+        "translation": "слишком длинный; растянутый; длительный;"
+    },
+    {
+        "word": "keep up",
+        "transcription": "kiːp ʌp",
+        "translation": "не прекращать; не давать снижаться (ценам); не давать тонуть; поддерживать; придерживаться (обычаев); не останавливаться"
+    },
+    {
+        "word": "struggle",
+        "transcription": "ˈstrʌɡld",
+        "translation": " делать усилия; барахтаться; сводить концы с концами"
+    },
+    {
+        "word": "weeping willow trees",
+        "transcription": "ˈwiːpɪŋ ˈwɪləʊ triːz",
+        "translation": "плакучие ивы"
+    },
+    {
+        "word": "fruition",
+        "transcription": "fruːˈɪʃᵊn",
+        "translation": "достижение желанной цели; результат; осуществление цели; реализация"
+    },
+    {
+        "word": "come into fruition",
+        "transcription": "kʌm ˈɪntuː fruːˈɪʃᵊn",
+        "translation": "стать реальностью; реализоваться; быть реализованным; осуществляться; воплотиться в реальность;"
+    },
+    {
+        "word": "slot into place",
+        "transcription": "ˈslɒtɪŋ ˈɪntuː pleɪs",
+        "translation": "идти по плану;  складываться удачно"
+    },
+    {
+        "word": "drift off",
+        "transcription": "ˈdrɪftɪd ɒf",
+        "translation": "клевать носом; отключаться; погружаться в сон; засыпать"
+    },
+    {
+        "word": "set off",
+        "transcription": "sɛt ɒf",
+        "translation": "оттенять; отправлять; засчитывать (денежную сумму); отделывать; отделять; отмечать; побуждать (к чему-либо, к какому-либо действию);"
+    },
+    {
+        "word": "exactly",
+        "transcription": "ɪɡˈzæktli",
+        "translation": "точно"
+    },
+    {
+        "word": "envision",
+        "transcription": "ɪnˈvɪʒənd",
+        "translation": "нарисовать в своём воображении; представить себе; предвидеть; воображать (что-либо); рисовать в своём воображении; грезить"
+    },
+    {
+        "word": "although",
+        "transcription": "ɔːlˈðəʊ",
+        "translation": "хотя"
+    },
+    {
+        "word": "relief",
+        "transcription": "rɪˈliːf",
+        "translation": "утоление; улучшение состояния (напр., почв dreamjam);  облегчение"
+    },
+    {
+        "word": "secured",
+        "transcription": "sɪˈkjʊəd ",
+        "translation": " закрепляемый; с обеспечением;  хорошо защищённый"
+    }
+]

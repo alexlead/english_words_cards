@@ -1,0 +1,377 @@
+[
+    {
+        "word": "Abrasive",
+        "transcription": "əˈbreɪsɪv",
+        "translation": "грубый; несносный; обидный; раздражающий; Абразивный"
+    },
+    {
+        "word": "Aggressive",
+        "transcription": "əˈɡrɛsɪv",
+        "translation": "агрессивный"
+    },
+    {
+        "word": "Apathetic",
+        "transcription": "ˌæpəˈθɛtɪk",
+        "translation": "апатичный; равнодушный; безразличный;"
+    },
+    {
+        "word": "Argumentative",
+        "transcription": "ˌɑːɡjʊˈmɛntətɪv",
+        "translation": "склонный к склокам; любящий спорить; конфликтный"
+    },
+    {
+        "word": "Boring",
+        "transcription": "ˈbɔːrɪŋ",
+        "translation": " надоедливый; скучный; нудный; банальный;"
+    },
+    {
+        "word": "Bossy",
+        "transcription": "ˈbɒsi",
+        "translation": "властный;  начальственный; любящий командовать"
+    },
+    {
+        "word": "Callous",
+        "transcription": "ˈkæləs",
+        "translation": "огрубелый; бездушный; мозолистый; бесчувственный; нечуткий; неотзывчивый"
+    },
+    {
+        "word": "Catty",
+        "transcription": "ˈkæti",
+        "translation": "вкрадчивый; злобный; коварный; недоброжелательный; недобрый; хитрый; ехидный"
+    },
+    {
+        "word": "Childish",
+        "transcription": "ˈʧaɪldɪʃ",
+        "translation": "детский; несерьёзный; ребячий; незрелый;"
+    },
+    {
+        "word": "Cocky",
+        "transcription": "ˈkɒki",
+        "translation": "дерзкий; самоуверенный; задиристый"
+    },
+    {
+        "word": "Confrontational",
+        "transcription": "ˌkɒnfrʌnˈteɪʃᵊnᵊl",
+        "translation": "конфликтный;  провоцирующий; скандальный; склонный к конфронтации"
+    },
+    {
+        "word": "Controlling",
+        "transcription": "kənˈtrəʊlɪŋ",
+        "translation": "деспотичный; контролирующий; лимитирующий; "
+    },
+    {
+        "word": "Cowardly",
+        "transcription": "ˈkaʊədli",
+        "translation": "Трусливый"
+    },
+    {
+        "word": "Cruel",
+        "transcription": "krʊəl",
+        "translation": "Жестокий"
+    },
+    {
+        "word": "Cynical",
+        "transcription": "ˈsɪnɪkəl",
+        "translation": "Циничный"
+    },
+    {
+        "word": "Defensive",
+        "transcription": "dɪˈfɛnsɪv",
+        "translation": "оборонительный; оборонный; защитный; оправдывающийся"
+    },
+    {
+        "word": "Deceitful",
+        "transcription": "dɪˈsiːtfʊl",
+        "translation": "Лживый"
+    },
+    {
+        "word": "Dense",
+        "transcription": "dɛns",
+        "translation": "глупый; дремучий; непонятливый; несообразительный;"
+    },
+    {
+        "word": "Devious",
+        "transcription": "ˈdiːviəs",
+        "translation": "Коварный"
+    },
+    {
+        "word": "Dim",
+        "transcription": "dɪm",
+        "translation": "Тусклый"
+    },
+    {
+        "word": "Dishonest",
+        "transcription": "dɪsˈɒnɪst",
+        "translation": "Нечестный"
+    },
+    {
+        "word": "Disloyal",
+        "transcription": "ˌdɪsˈlɔɪəl",
+        "translation": "нелояльный; вероломный; предательский; неблагонамеренный; неблагожелательный; неблагонадёжный"
+    },
+    {
+        "word": "Disorganized",
+        "transcription": "dɪsˈɔːɡənaɪzd",
+        "translation": "неорганизованный; безалаберный; хаотичный; бессистемный"
+    },
+    {
+        "word": "Disrespectful",
+        "transcription": "ˌdɪsrɪsˈpɛktfʊl",
+        "translation": "непочтительный; невежливый; дерзкий; неуважительный; грубый"
+    },
+    {
+        "word": "Disruptive",
+        "transcription": "dɪsˈrʌptɪv",
+        "translation": "разрушительный"
+    },
+    {
+        "word": "Egotistical",
+        "transcription": "Egotistical",
+        "translation": "Эгоистичный"
+    },
+    {
+        "word": "Evasive",
+        "transcription": "ɪˈveɪsɪv",
+        "translation": "Уклончивый"
+    },
+    {
+        "word": "Evil",
+        "transcription": "ˈiːvl",
+        "translation": "злонамеренный; порочный; зловещий; дурной; злостный; нечистый; худой; недобрый;"
+    },
+    {
+        "word": "Fanatical",
+        "transcription": "fəˈnætɪkəl",
+        "translation": "фанатичный"
+    },
+    {
+        "word": "Flaky",
+        "transcription": "ˈfleɪki",
+        "translation": "чудной; чокнутый; беспечный; непредсказуемый"
+    },
+    {
+        "word": "Foolish",
+        "transcription": "ˈfuːlɪʃ",
+        "translation": "Глупый"
+    },
+    {
+        "word": "Forgetful",
+        "transcription": "fəˈɡɛtfʊl",
+        "translation": "забывчивый"
+    },
+    {
+        "word": "Frivolous",
+        "transcription": "ˈfrɪvələs",
+        "translation": "легкомысленный; пустой; поверхностный; фривольный; пустячный; несерьёзный"
+    },
+    {
+        "word": "Gossipy",
+        "transcription": "ˈɡɒsɪpi",
+        "translation": "сплетник; болтливый; любящий посплетничать;"
+    },
+    {
+        "word": "Greedy",
+        "transcription": "ˈɡriːdi",
+        "translation": "Жадный"
+    },
+    {
+        "word": "Grumpy",
+        "transcription": "ˈɡrʌmpi",
+        "translation": "Сердитый"
+    },
+    {
+        "word": "Gullible",
+        "transcription": "ˈɡʌləbᵊl",
+        "translation": "легковерный"
+    },
+    {
+        "word": "Hostile",
+        "transcription": "ˈhɒstaɪl",
+        "translation": "Враждебный"
+    },
+    {
+        "word": "Humorless",
+        "transcription": "ˈhjuːmələs",
+        "translation": "мрачноватый; невесёлый; лишённый чувства юмора"
+    },
+    {
+        "word": "Hypocritical",
+        "transcription": "ˌhɪpəˈkrɪtɪkəl",
+        "translation": "лицемерный; притворный; ханжеский; симулятивный"
+    },
+    {
+        "word": "Ignorant",
+        "transcription": "ˈɪɡnərənt",
+        "translation": "Невежественный"
+    },
+    {
+        "word": "Impatient",
+        "transcription": "ɪmˈpeɪʃənt",
+        "translation": "Нетерпеливый"
+    },
+    {
+        "word": "Impractical",
+        "transcription": "ɪmˈpræktɪkəl",
+        "translation": "Непрактичный"
+    },
+    {
+        "word": "Inconsiderate",
+        "transcription": "ˌɪnkənˈsɪdərɪt",
+        "translation": "невнимательный"
+    },
+    {
+        "word": "Irrational",
+        "transcription": "ɪˈræʃənl",
+        "translation": "иррациональный"
+    },
+    {
+        "word": "Jealous",
+        "transcription": "ˈʤɛləs",
+        "translation": "Ревнивый"
+    },
+    {
+        "word": "Judgemental",
+        "transcription": "Judgemental",
+        "translation": "категоричный; нетерпимый; осуждающий"
+    },
+    {
+        "word": "Lazy",
+        "transcription": "ˈleɪzi",
+        "translation": "Ленивый"
+    },
+    {
+        "word": "Manipulative",
+        "transcription": "məˈnɪpjʊlətɪv",
+        "translation": "Манипулятивный"
+    },
+    {
+        "word": "Mean",
+        "transcription": "miːn",
+        "translation": "скупой; скаредный; скудный; подлый; "
+    },
+    {
+        "word": "Moody",
+        "transcription": "ˈmuːdi",
+        "translation": "Капризный"
+    },
+    {
+        "word": "Morbid",
+        "transcription": "ˈmɔːbɪd",
+        "translation": "Болезненный"
+    },
+    {
+        "word": "Nasty",
+        "transcription": "ˈnɑːsti",
+        "translation": "противный; мерзкий; грязный; непристойный; неприятный; скверный;"
+    },
+    {
+        "word": "Nosy",
+        "transcription": "ˈnəʊzi",
+        "translation": "любопытный; пронырливый; с хорошим чутьём; не в меру любопытный "
+    },
+    {
+        "word": "Obsessive",
+        "transcription": "əbˈsɛsɪv",
+        "translation": "навязчивый; одержимый; одержимый навязчивой идеей; маниакальный; неотвязный"
+    },
+    {
+        "word": "Paranoid",
+        "transcription": "ˈpærəˌnɔɪd",
+        "translation": "Параноик"
+    },
+    {
+        "word": "Pessimistic",
+        "transcription": "ˌpɛsɪˈmɪstɪk",
+        "translation": "пессимистичный"
+    },
+    {
+        "word": "Petty",
+        "transcription": "ˈpɛti",
+        "translation": "мелочный; придирчивый; пустячный;"
+    },
+    {
+        "word": "possessive",
+        "transcription": "pə'zesɪv",
+        "translation": "собственнический; имеющий; притяжательный; ревнивый"
+    },
+    {
+        "word": "Prejudiced",
+        "transcription": "ˈprɛʤʊdɪst",
+        "translation": "предвзятый"
+    },
+    {
+        "word": "Pretentious",
+        "transcription": "prɪˈtɛnʃəs",
+        "translation": "претенциозный; показной; вычурный; много о себе возомнивший; напыщенный"
+    },
+    {
+        "word": "Reckless",
+        "transcription": "ˈrɛklɪs",
+        "translation": "Безрассудный"
+    },
+    {
+        "word": "Resentful",
+        "transcription": "rɪˈzɛntfʊl",
+        "translation": "обиженный; возмущённый; обидчивый; злопамятный;"
+    },
+    {
+        "word": "Rotten",
+        "transcription": "ˈrɒtn",
+        "translation": "Сгнивший"
+    },
+    {
+        "word": "Rude",
+        "transcription": "ruːd",
+        "translation": "Грубый"
+    },
+    {
+        "word": "Selfish",
+        "transcription": "ˈsɛlfɪʃ",
+        "translation": "Эгоистичный"
+    },
+    {
+        "word": "Sleazy",
+        "transcription": "ˈsliːzi",
+        "translation": "Неряшливый"
+    },
+    {
+        "word": "Spoiled",
+        "transcription": "spɔːɪld",
+        "translation": "Испорченный"
+    },
+    {
+        "word": "Stingy",
+        "transcription": "ˈstɪnʤi",
+        "translation": "Скупой"
+    },
+    {
+        "word": "Stupid",
+        "transcription": "ˈstjuːpɪd",
+        "translation": "Глупый"
+    },
+    {
+        "word": "Unlucky",
+        "transcription": "ʌnˈlʌki",
+        "translation": "неудачный; неудачливый; невезучий; "
+    },
+    {
+        "word": "Unmotivated",
+        "transcription": "ˌʌnˈməʊtɪveɪtɪd",
+        "translation": "Немотивированный"
+    },
+    {
+        "word": "Unreliable",
+        "transcription": "ˌʌnrɪˈlaɪəbᵊl",
+        "translation": "Ненадежный"
+    },
+    {
+        "word": "Untidy",
+        "transcription": "ʌnˈtaɪdi",
+        "translation": "неопрятный"
+    },
+    {
+        "word": "Vain",
+        "transcription": "veɪn ",
+        "translation": "тщетный; напрасный; бесполезный; суетный; мишурный; показной; ничтожный;"
+    }
+]

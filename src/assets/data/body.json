@@ -1,0 +1,557 @@
+[
+    {
+        "word": "Head",
+        "transcription": "hɛd",
+        "translation": "Голова"
+    },
+    {
+        "word": "Face",
+        "transcription": "feɪs",
+        "translation": "Лицо"
+    },
+    {
+        "word": "Hair",
+        "transcription": "heə",
+        "translation": "Волосы"
+    },
+    {
+        "word": "Ear",
+        "transcription": "ɪə",
+        "translation": "Ухо"
+    },
+    {
+        "word": "Neck",
+        "transcription": "nɛk",
+        "translation": "Шея"
+    },
+    {
+        "word": "Forehead",
+        "transcription": "ˈfɒrɪd",
+        "translation": "Лоб"
+    },
+    {
+        "word": "Beard",
+        "transcription": "bɪəd",
+        "translation": "Борода"
+    },
+    {
+        "word": "Eye",
+        "transcription": "aɪ",
+        "translation": "Глаз"
+    },
+    {
+        "word": "Nose",
+        "transcription": "nəʊz",
+        "translation": "Нос"
+    },
+    {
+        "word": "Mouth",
+        "transcription": "maʊθ",
+        "translation": "Рот"
+    },
+    {
+        "word": "Chin",
+        "transcription": "ʧɪn",
+        "translation": "Подбородок"
+    },
+    {
+        "word": "Shoulder",
+        "transcription": "ˈʃəʊldə",
+        "translation": "Плечо"
+    },
+    {
+        "word": "Elbow",
+        "transcription": "ˈɛlbəʊ",
+        "translation": "Локоть"
+    },
+    {
+        "word": "Arm",
+        "transcription": "ɑːm",
+        "translation": "Рука"
+    },
+    {
+        "word": "Chest",
+        "transcription": "ʧɛst",
+        "translation": "Грудь"
+    },
+    {
+        "word": "Armpit",
+        "transcription": "ˈɑːmpɪt",
+        "translation": "Подмышка"
+    },
+    {
+        "word": "Forearm",
+        "transcription": "ˈfɔːrɑːm",
+        "translation": "Предплечье"
+    },
+    {
+        "word": "Wrist",
+        "transcription": "rɪst",
+        "translation": "Запястье"
+    },
+    {
+        "word": "Back",
+        "transcription": "bæk",
+        "translation": "Спина"
+    },
+    {
+        "word": "Navel",
+        "transcription": "ˈneɪvəl",
+        "translation": "Пупок"
+    },
+    {
+        "word": "Toes",
+        "transcription": "təʊz",
+        "translation": "Пальцы ног"
+    },
+    {
+        "word": "Ankle",
+        "transcription": "ˈæŋkl",
+        "translation": "Лодыжка"
+    },
+    {
+        "word": "Instep",
+        "transcription": "ˈɪnstɛp",
+        "translation": "В ногу"
+    },
+    {
+        "word": "Toenail",
+        "transcription": "ˈtəʊneɪl",
+        "translation": "ноготь пальцев ног"
+    },
+    {
+        "word": "Waist",
+        "transcription": "weɪst",
+        "translation": "Талия"
+    },
+    {
+        "word": "Abdomen",
+        "transcription": "ˈæbdəmɛn",
+        "translation": "Брюшная полость"
+    },
+    {
+        "word": "Buttock",
+        "transcription": "ˈbʌtək",
+        "translation": "ягодицы"
+    },
+    {
+        "word": "Hip",
+        "transcription": "hɪp",
+        "translation": "Бедро"
+    },
+    {
+        "word": "Leg",
+        "transcription": "lɛɡ",
+        "translation": "Нога"
+    },
+    {
+        "word": "Thigh",
+        "transcription": "θaɪ",
+        "translation": "Бедро"
+    },
+    {
+        "word": "Knee",
+        "transcription": "niː",
+        "translation": "Колено"
+    },
+    {
+        "word": "Foot",
+        "transcription": "fʊt",
+        "translation": "Ступня"
+    },
+    {
+        "word": "Hand",
+        "transcription": "hænd",
+        "translation": "Рука"
+    },
+    {
+        "word": "Thumb",
+        "transcription": "θʌm",
+        "translation": "Большой палец"
+    },
+    {
+        "word": "Hair",
+        "transcription": "heə",
+        "translation": "Волосы"
+    },
+    {
+        "word": "Temple",
+        "transcription": "ˈtɛmpl",
+        "translation": "висок"
+    },
+    {
+        "word": "Eyelash",
+        "transcription": "ˈaɪlæʃ",
+        "translation": "Ресница"
+    },
+    {
+        "word": "Iris",
+        "transcription": "ˈaɪərɪs",
+        "translation": "радужная оболочка"
+    },
+    {
+        "word": "Cheek",
+        "transcription": "ʧiːk",
+        "translation": "Щека"
+    },
+    {
+        "word": "Nostril",
+        "transcription": "ˈnɒstrɪl",
+        "translation": "ноздря"
+    },
+    {
+        "word": "Lip",
+        "transcription": "lɪp",
+        "translation": "губа"
+    },
+    {
+        "word": "Neck",
+        "transcription": "nɛk",
+        "translation": "Шея"
+    },
+    {
+        "word": "Forehead",
+        "transcription": "ˈfɒrɪd",
+        "translation": "Лоб"
+    },
+    {
+        "word": "Eyebrow",
+        "transcription": "ˈaɪbraʊ",
+        "translation": "Бровь"
+    },
+    {
+        "word": "Eye",
+        "transcription": "aɪ",
+        "translation": "Глаз"
+    },
+    {
+        "word": "Eyelid",
+        "transcription": "ˈaɪlɪd",
+        "translation": "Веко"
+    },
+    {
+        "word": "Ear",
+        "transcription": "ɪə",
+        "translation": "Ухо"
+    },
+    {
+        "word": "Nose",
+        "transcription": "nəʊz",
+        "translation": "Нос"
+    },
+    {
+        "word": "Jaw",
+        "transcription": "ʤɔː",
+        "translation": "Челюсть"
+    },
+    {
+        "word": "Mouth",
+        "transcription": "maʊθ",
+        "translation": "Рот"
+    },
+    {
+        "word": "Chin",
+        "transcription": "ʧɪn",
+        "translation": "Подбородок"
+    },
+    {
+        "word": "Moustache",
+        "transcription": "məsˈtɑːʃ",
+        "translation": "усы"
+    },
+    {
+        "word": "Beard",
+        "transcription": "bɪəd",
+        "translation": "Борода"
+    },
+    {
+        "word": "Mole",
+        "transcription": "məʊl",
+        "translation": "родинка"
+    },
+    {
+        "word": "Thumb",
+        "transcription": "θʌm",
+        "translation": "Большой палец"
+    },
+    {
+        "word": "Index finger",
+        "transcription": "ˈɪndɛks ˈfɪŋɡə",
+        "translation": "Указательный палец"
+    },
+    {
+        "word": "Middle finger",
+        "transcription": "ˈmɪdl ˈfɪŋɡə",
+        "translation": "Средний палец"
+    },
+    {
+        "word": "Ring finger",
+        "transcription": "rɪŋ ˈfɪŋɡə",
+        "translation": "Безымянный палец"
+    },
+    {
+        "word": "Little finger",
+        "transcription": "ˈlɪtl ˈfɪŋɡə",
+        "translation": "Мизинец"
+    },
+    {
+        "word": "Palm",
+        "transcription": "pɑːm",
+        "translation": "Ладонь"
+    },
+    {
+        "word": "Wrist",
+        "transcription": "rɪst",
+        "translation": "Запястье"
+    },
+    {
+        "word": "Knuckle",
+        "transcription": "ˈnʌkl",
+        "translation": "кулак"
+    },
+    {
+        "word": "Fingernail",
+        "transcription": "ˈfɪŋɡəneɪl",
+        "translation": "ноготь на руке"
+    },
+    {
+        "word": "Brain",
+        "transcription": "breɪn",
+        "translation": "Мозг"
+    },
+    {
+        "word": "Trachea",
+        "transcription": "trəˈkiːə",
+        "translation": "Трахея"
+    },
+    {
+        "word": "Lungs",
+        "transcription": "lʌŋz",
+        "translation": "Легкие"
+    },
+    {
+        "word": "Heart",
+        "transcription": "hɑːt",
+        "translation": "Сердце"
+    },
+    {
+        "word": "Liver",
+        "transcription": "ˈlɪvə",
+        "translation": "Печень"
+    },
+    {
+        "word": "Stomach",
+        "transcription": "ˈstʌmək",
+        "translation": "Желудок"
+    },
+    {
+        "word": "Kidneys",
+        "transcription": "ˈkɪdniz",
+        "translation": "почки"
+    },
+    {
+        "word": "Intestines (large intestine and small intestine)",
+        "transcription": "ɪnˈtɛstɪnz (lɑːʤ ɪnˈtɛstɪn ænd smɔːl ɪnˈtɛstɪn)",
+        "translation": "Кишечник (толстая кишка и тонкая кишка)"
+    },
+    {
+        "word": "Pharynx",
+        "transcription": "ˈfærɪŋks",
+        "translation": "Глотка"
+    },
+    {
+        "word": "Larynx",
+        "transcription": "ˈlærɪŋks",
+        "translation": "Гортань"
+    },
+    {
+        "word": "Arteries",
+        "transcription": "ˈɑːtəriz",
+        "translation": "Артерии"
+    },
+    {
+        "word": "Gallbladder",
+        "transcription": "ˈɡɔːlˌblædə",
+        "translation": "Желчный пузырь"
+    },
+    {
+        "word": "Spleen",
+        "transcription": "spliːn",
+        "translation": "Селезенка"
+    },
+    {
+        "word": "Urinary bladder",
+        "transcription": "ˈjʊərɪnəri ˈblædə",
+        "translation": "Мочевой пузырь"
+    },
+    {
+        "word": "Appendix",
+        "transcription": "əˈpɛndɪks",
+        "translation": "аппендикс"
+    },
+    {
+        "word": "Canine",
+        "transcription": "ˈkeɪnaɪn",
+        "translation": "клык"
+    },
+    {
+        "word": "Hard palate",
+        "transcription": "hɑːd ˈpælɪt",
+        "translation": "твердое небо"
+    },
+    {
+        "word": "Lips",
+        "transcription": "lɪps",
+        "translation": "Губы"
+    },
+    {
+        "word": "Soft palate",
+        "transcription": "sɒft ˈpælɪt",
+        "translation": "Мягкое небо"
+    },
+    {
+        "word": "Uvula",
+        "transcription": "ˈjuːvjʊlə",
+        "translation": "язычок"
+    },
+    {
+        "word": "Tongue",
+        "transcription": "tʌŋ",
+        "translation": "Язык"
+    },
+    {
+        "word": "Gingiva (Gums)",
+        "transcription": "Gingiva (ɡʌmz)",
+        "translation": "Десна (Десны)"
+    },
+    {
+        "word": "Incisor",
+        "transcription": "ɪnˈsaɪzə",
+        "translation": "резец"
+    },
+    {
+        "word": "Teeth",
+        "transcription": "tiːθ",
+        "translation": "Зубы"
+    },
+    {
+        "word": "Mandible",
+        "transcription": "ˈmændɪbᵊl",
+        "translation": "нижняя челюсть"
+    },
+    {
+        "word": "Papillae",
+        "transcription": "pəˈpɪliː",
+        "translation": "Сосочки"
+    },
+    {
+        "word": "Premolar",
+        "transcription": "ˌpriːˈməʊlə",
+        "translation": "малый коренной зуб"
+    },
+    {
+        "word": "Pixie cut",
+        "transcription": "ˈpɪksi kʌt",
+        "translation": "Стрижка пикси (короткая женская стрижка)"
+    },
+    {
+        "word": "Bob",
+        "transcription": "bɒb",
+        "translation": "завиток волос"
+    },
+    {
+        "word": "Medium length",
+        "transcription": "ˈmiːdiəm lɛŋθ",
+        "translation": "Средняя длина"
+    },
+    {
+        "word": "Long",
+        "transcription": "lɒŋ",
+        "translation": "Длинный волос"
+    },
+    {
+        "word": "Short blonde",
+        "transcription": "ʃɔːt blɒnd",
+        "translation": "Короткая стрижка блондин"
+    },
+    {
+        "word": "Long blonde",
+        "transcription": "lɒŋ blɒnd",
+        "translation": "Длинная стрижка блондинка"
+    },
+    {
+        "word": "Bun",
+        "transcription": "bʌn",
+        "translation": "пучок"
+    },
+    {
+        "word": "Ponytail",
+        "transcription": "ˈpəʊnɪteɪl",
+        "translation": "Конский хвост"
+    },
+    {
+        "word": "Pigtail",
+        "transcription": "ˈpɪɡteɪl",
+        "translation": "Косичка"
+    },
+    {
+        "word": "Curly",
+        "transcription": "ˈkɜːli",
+        "translation": "Кудрявый"
+    },
+    {
+        "word": "Dreadlocks",
+        "transcription": "ˈdrɛdˌlɒks",
+        "translation": "Дреды"
+    },
+    {
+        "word": "Mohawk",
+        "transcription": "ˈməʊhɔːk",
+        "translation": "ирокез"
+    },
+    {
+        "word": "Red hair",
+        "transcription": "rɛd heə",
+        "translation": "Рыжие волосы"
+    },
+    {
+        "word": "Dyed hair",
+        "transcription": "daɪd heə",
+        "translation": "Крашеные волосы"
+    },
+    {
+        "word": "Gray hair",
+        "transcription": "ɡreɪ heə",
+        "translation": "Седина"
+    },
+    {
+        "word": "Long wavy hair",
+        "transcription": "lɒŋ ˈweɪvi heə",
+        "translation": "Длинные волнистые волосы"
+    },
+    {
+        "word": "Man bun",
+        "transcription": "mæn bʌn",
+        "translation": "Мужской пучок"
+    },
+    {
+        "word": "Combover",
+        "transcription": "Combover",
+        "translation": "Гребенчатый"
+    },
+    {
+        "word": "Plaits",
+        "transcription": "plæts",
+        "translation": "косички"
+    },
+    {
+        "word": "Ringlets",
+        "transcription": "ˈrɪŋlɪts",
+        "translation": "Локоны"
+    },
+    {
+        "word": "Bald",
+        "transcription": "bɔːld ",
+        "translation": "Лысый"
+    }
+]

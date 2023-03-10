@@ -1,0 +1,602 @@
+[
+    {
+        "word": " proactive",
+        "transcription": "prəʊˈæktɪv",
+        "translation": "активный"
+    },
+    {
+        "word": " nurturing",
+        "transcription": "ˈnɜːʧərɪŋ",
+        "translation": "воспитание"
+    },
+    {
+        "word": " objective",
+        "transcription": "əbˈʤɛktɪv",
+        "translation": "задача"
+    },
+    {
+        "word": " insightful",
+        "transcription": "ˈɪnsaɪtfᵊl",
+        "translation": "проницательный"
+    },
+    {
+        "word": " indecisive",
+        "transcription": "ˌɪndɪˈsaɪsɪv",
+        "translation": "нерешительный"
+    },
+    {
+        "word": " arrogant",
+        "transcription": "ˈærəʊɡənt",
+        "translation": "высокомерный"
+    },
+    {
+        "word": " a perfectionist",
+        "transcription": "ə pəˈfɛkʃᵊnɪst",
+        "translation": "перфекционист"
+    },
+    {
+        "word": " poor follow-through",
+        "transcription": "pʊə ˈfɒləʊ-θruː",
+        "translation": "плохое сопровождение"
+    },
+    {
+        "word": " enthusiastic",
+        "transcription": "ɪnˌθjuːzɪˈæstɪk",
+        "translation": "восторженный"
+    },
+    {
+        "word": " kind",
+        "transcription": "kaɪnd",
+        "translation": "Добрый"
+    },
+    {
+        "word": " caring",
+        "transcription": "ˈkeərɪŋ",
+        "translation": "заботливый"
+    },
+    {
+        "word": " productive",
+        "transcription": "prəˈdʌktɪv",
+        "translation": "продуктивный"
+    },
+    {
+        "word": " relentless",
+        "transcription": "rɪˈlɛntlɪs",
+        "translation": "безжалостный"
+    },
+    {
+        "word": " suspicious",
+        "transcription": "səsˈpɪʃəs",
+        "translation": "подозрительный"
+    },
+    {
+        "word": " indifferent",
+        "transcription": "ɪnˈdɪfrənt",
+        "translation": "в различных"
+    },
+    {
+        "word": " naive",
+        "transcription": "nɑːˈiːv",
+        "translation": "наивный"
+    },
+    {
+        "word": " peaceful",
+        "transcription": "ˈpiːsfʊl",
+        "translation": "мирный"
+    },
+    {
+        "word": " carefree",
+        "transcription": "ˈkeəfriː",
+        "translation": "беззаботный"
+    },
+    {
+        "word": " decisive",
+        "transcription": "dɪˈsaɪsɪv",
+        "translation": "решающий"
+    },
+    {
+        "word": " loyal",
+        "transcription": "ˈlɔɪəl",
+        "translation": "верный"
+    },
+    {
+        "word": " silently stubborn",
+        "transcription": "ˈsaɪləntli ˈstʌbən",
+        "translation": "молча упрямый"
+    },
+    {
+        "word": " worry prone",
+        "transcription": "ˈwʌri prəʊn",
+        "translation": "склонный к беспокойству"
+    },
+    {
+        "word": " an interrupter",
+        "transcription": "ən ˌɪntəˈrʌptə",
+        "translation": "прерыватель"
+    },
+    {
+        "word": " obsessive",
+        "transcription": "əbˈsɛsɪv",
+        "translation": "навязчивый"
+    },
+    {
+        "word": " sociable",
+        "transcription": "ˈsəʊʃəbᵊl",
+        "translation": "общительный"
+    },
+    {
+        "word": " assertive",
+        "transcription": "əˈsɜːtɪv",
+        "translation": "напористый"
+    },
+    {
+        "word": " intimate",
+        "transcription": "ˈɪntɪmɪt",
+        "translation": "интимный"
+    },
+    {
+        "word": " non-discriminate",
+        "transcription": "nɒn-dɪsˈkrɪmɪnɪt",
+        "translation": "недискриминационный"
+    },
+    {
+        "word": " self-critical",
+        "transcription": "sɛlf-ˈkrɪtɪkəl",
+        "translation": "самокритичный"
+    },
+    {
+        "word": " bossy",
+        "transcription": "ˈbɒsi",
+        "translation": "властная"
+    },
+    {
+        "word": " unfocused",
+        "transcription": "ˌʌnˈfəʊkəst",
+        "translation": "несфокусированный"
+    },
+    {
+        "word": " avoids conflict",
+        "transcription": "əˈvɔɪdz ˈkɒnflɪkt",
+        "translation": "избегает конфликта"
+    },
+    {
+        "word": " voice of reason",
+        "transcription": "vɔɪs ɒv ˈriːzn",
+        "translation": "голос разума"
+    },
+    {
+        "word": " flexible",
+        "transcription": "ˈflɛksəbᵊl",
+        "translation": "гибкий"
+    },
+    {
+        "word": " action-oriented",
+        "transcription": "ˈækʃᵊn-ˈɔːriəntɪd",
+        "translation": "ориентированный на действие"
+    },
+    {
+        "word": " analytical",
+        "transcription": "ˌænəˈlɪtɪkəl",
+        "translation": "аналитический"
+    },
+    {
+        "word": " critical of others",
+        "transcription": "ˈkrɪtɪkəl ɒv ˈʌðəz",
+        "translation": "критично относиться к другим"
+    },
+    {
+        "word": " disinterested",
+        "transcription": "dɪsˈɪntrɪstɪd",
+        "translation": "бескорыстный"
+    },
+    {
+        "word": " overly sensitive",
+        "transcription": "ˈəʊvəli ˈsɛnsɪtɪv",
+        "translation": "чрезмерно чувствительный"
+    },
+    {
+        "word": " irresponsible",
+        "transcription": "ˌɪrɪsˈpɒnsəbᵊl",
+        "translation": "безответственный"
+    },
+    {
+        "word": " determined",
+        "transcription": "dɪˈtɜːmɪnd",
+        "translation": "определенный"
+    },
+    {
+        "word": " thoughtful",
+        "transcription": "θɔːtfʊl",
+        "translation": "заботливая"
+    },
+    {
+        "word": " a good listener",
+        "transcription": "ə ɡʊd ˈlɪsnə",
+        "translation": "хороший слушатель"
+    },
+    {
+        "word": " positive",
+        "transcription": "ˈpɒzətɪv",
+        "translation": "положительный"
+    },
+    {
+        "word": " unmotivated",
+        "transcription": "ˌʌnˈməʊtɪveɪtɪd",
+        "translation": "немотивированный"
+    },
+    {
+        "word": " vain",
+        "transcription": "veɪn",
+        "translation": "напрасно"
+    },
+    {
+        "word": " demanding",
+        "transcription": "dɪˈmɑːndɪŋ",
+        "translation": "требовательный"
+    },
+    {
+        "word": " unforgiving",
+        "transcription": "ˌʌnfəˈɡɪvɪŋ",
+        "translation": "неумолимый"
+    },
+    {
+        "word": " happy",
+        "transcription": "ˈhæpi",
+        "translation": "счастливый"
+    },
+    {
+        "word": " compassionate",
+        "transcription": "kəmˈpæʃənɪt",
+        "translation": "сострадательный"
+    },
+    {
+        "word": " inventive",
+        "transcription": "ɪnˈvɛntɪv",
+        "translation": "изобретательный"
+    },
+    {
+        "word": " responsible",
+        "transcription": "rɪsˈpɒnsəbᵊl",
+        "translation": "ответственный"
+    },
+    {
+        "word": " impulsive",
+        "transcription": "ɪmˈpʌlsɪv",
+        "translation": "импульсивный"
+    },
+    {
+        "word": " impatient",
+        "transcription": "ɪmˈpeɪʃənt",
+        "translation": "нетерпеливый"
+    },
+    {
+        "word": " moody",
+        "transcription": "ˈmuːdi",
+        "translation": "капризный; угрюмый; унылый; со скверным характером"
+    },
+    {
+        "word": " indirect communicator",
+        "transcription": "ˌɪndɪˈrɛkt kəˈmjuːnɪkeɪtə",
+        "translation": "непрямой коммуникатор"
+    },
+    {
+        "word": " a leader",
+        "transcription": "ə ˈliːdə",
+        "translation": "лидер"
+    },
+    {
+        "word": " patient",
+        "transcription": "ˈpeɪʃənt",
+        "translation": "пациент"
+    },
+    {
+        "word": " fun-loving",
+        "transcription": "fʌn-ˈlʌvɪŋ",
+        "translation": "веселый"
+    },
+    {
+        "word": " respectful",
+        "transcription": "rɪsˈpɛktfʊl",
+        "translation": "почтительный"
+    },
+    {
+        "word": " jealous",
+        "transcription": "ˈʤɛləs",
+        "translation": "ревнивый"
+    },
+    {
+        "word": " reluctant",
+        "transcription": "rɪˈlʌktənt",
+        "translation": "вынужденный"
+    },
+    {
+        "word": " argumentative",
+        "transcription": "ˌɑːɡjʊˈmɛntətɪv",
+        "translation": "спорный"
+    },
+    {
+        "word": " obnoxious",
+        "transcription": "əbˈnɒkʃəs",
+        "translation": "противный"
+    },
+    {
+        "word": " even-tempered",
+        "transcription": "ˈiːvən-ˈtɛmpəd",
+        "translation": "уравновешенный"
+    },
+    {
+        "word": " inclusive",
+        "transcription": "ɪnˈkluːsɪv",
+        "translation": "включительно"
+    },
+    {
+        "word": " dependable",
+        "transcription": "dɪˈpɛndəbᵊl",
+        "translation": "надежный"
+    },
+    {
+        "word": " focused",
+        "transcription": "ˈfəʊkəst",
+        "translation": "сосредоточенный"
+    },
+    {
+        "word": " overly aggressive",
+        "transcription": "ˈəʊvəli əˈɡrɛsɪv",
+        "translation": "чрезмерно агрессивный"
+    },
+    {
+        "word": " low self-esteem",
+        "transcription": "ləʊ sɛlf-ɪsˈtiːm",
+        "translation": "низкая самооценка"
+    },
+    {
+        "word": " ambivalent",
+        "transcription": "æmˈbɪvələnt",
+        "translation": "двойственное"
+    },
+    {
+        "word": " inconsistent",
+        "transcription": "ˌɪnkənˈsɪstənt",
+        "translation": "непоследовательный"
+    },
+    {
+        "word": " deliberate",
+        "transcription": "dɪˈlɪbərɪt",
+        "translation": "преднамеренный"
+    },
+    {
+        "word": " powerful",
+        "transcription": "ˈpaʊəfʊl",
+        "translation": "мощный"
+    },
+    {
+        "word": " balanced",
+        "transcription": "ˈbælənst",
+        "translation": "сбалансированный"
+    },
+    {
+        "word": " persuasive",
+        "transcription": "pəˈsweɪsɪv",
+        "translation": "убедительный"
+    },
+    {
+        "word": " undisciplined",
+        "transcription": "ʌnˈdɪsɪplɪnd",
+        "translation": "недисциплинированный"
+    },
+    {
+        "word": " timid",
+        "transcription": "ˈtɪmɪd",
+        "translation": "робкий"
+    },
+    {
+        "word": " insensitive",
+        "transcription": "ɪnˈsɛnsɪtɪv",
+        "translation": "бесчувственный"
+    },
+    {
+        "word": " judgmental",
+        "transcription": "ʤʌʤˈmɛntᵊl",
+        "translation": "осуждающий"
+    },
+    {
+        "word": " creative thinker",
+        "transcription": "kriˈeɪtɪv ˈθɪŋkə",
+        "translation": "творческий мыслитель"
+    },
+    {
+        "word": " clear perspective",
+        "transcription": "klɪə pəˈspɛktɪv",
+        "translation": "ясная перспектива"
+    },
+    {
+        "word": " detail conscious",
+        "transcription": "ˈdiːteɪl ˈkɒnʃəs",
+        "translation": "внимание к деталям"
+    },
+    {
+        "word": " visionary",
+        "transcription": "ˈvɪʒnəri",
+        "translation": "провидец"
+    },
+    {
+        "word": " always right",
+        "transcription": "ˈɔːlweɪz raɪt",
+        "translation": "всегда прав"
+    },
+    {
+        "word": " uncommitted",
+        "transcription": "ˌʌnkəˈmɪtəd",
+        "translation": "незавершенный"
+    },
+    {
+        "word": " uninvolved",
+        "transcription": "ˌʌnɪnˈvɒlvd",
+        "translation": "незадействованный"
+    },
+    {
+        "word": " guilt prone",
+        "transcription": "ɡɪlt prəʊn",
+        "translation": "склонный к вине"
+    },
+    {
+        "word": " accepting",
+        "transcription": "əkˈsɛptɪŋ",
+        "translation": "принятие"
+    },
+    {
+        "word": " spontaneous",
+        "transcription": "spɒnˈteɪniəs",
+        "translation": "спонтанный"
+    },
+    {
+        "word": " pragmatic",
+        "transcription": "præɡˈmætɪk",
+        "translation": "прагматичный"
+    },
+    {
+        "word": " well-mannered",
+        "transcription": "wɛl-ˈmænəd",
+        "translation": "воспитанный"
+    },
+    {
+        "word": " disorganized",
+        "transcription": "dɪsˈɔːɡənaɪzd",
+        "translation": "неорганизованный"
+    },
+    {
+        "word": " selfish",
+        "transcription": "ˈsɛlfɪʃ",
+        "translation": "эгоистичный"
+    },
+    {
+        "word": " emotionally intense",
+        "transcription": "ɪˈməʊʃənli ɪnˈtɛns",
+        "translation": "эмоционально насыщенный"
+    },
+    {
+        "word": " detached",
+        "transcription": "dɪˈtæʧt",
+        "translation": "отстраненный"
+    },
+    {
+        "word": " motivated",
+        "transcription": "ˈməʊtɪveɪtɪd",
+        "translation": "мотивированный"
+    },
+    {
+        "word": " sincere",
+        "transcription": "sɪnˈsɪə",
+        "translation": "искренний"
+    },
+    {
+        "word": " diplomatic",
+        "transcription": "ˌdɪpləˈmætɪk",
+        "translation": "дипломатический"
+    },
+    {
+        "word": " engaging of others",
+        "transcription": "ɪnˈɡeɪʤɪŋ ɒv ˈʌðəz",
+        "translation": "привлечение других"
+    },
+    {
+        "word": " forgetful",
+        "transcription": "fəˈɡɛtfʊl",
+        "translation": "забывчивый"
+    },
+    {
+        "word": " boring",
+        "transcription": "ˈbɔːrɪŋ",
+        "translation": "скучный"
+    },
+    {
+        "word": " hard to please",
+        "transcription": "hɑːd tuː pliːz",
+        "translation": "трудно угодить"
+    },
+    {
+        "word": " tactless",
+        "transcription": "ˈtæktlɪs",
+        "translation": "бестактный"
+    },
+    {
+        "word": " articulate",
+        "transcription": "ɑːˈtɪkjʊlɪt",
+        "translation": "артикулировать"
+    },
+    {
+        "word": " quality-oriented",
+        "transcription": "ˈkwɒlɪti-ˈɔːriəntɪd",
+        "translation": "ориентированный на качество"
+    },
+    {
+        "word": " centered",
+        "transcription": "ˈsɛntəd",
+        "translation": "сосредоточенный"
+    },
+    {
+        "word": " forgiving",
+        "transcription": "fəˈɡɪvɪŋ",
+        "translation": "прощающий"
+    },
+    {
+        "word": " self-centered",
+        "transcription": "sɛlf-ˈsɛntəd",
+        "translation": "эгоцентричный"
+    },
+    {
+        "word": " calculating",
+        "transcription": "ˈkælkjʊleɪtɪŋ",
+        "translation": "расчет"
+    },
+    {
+        "word": " self-righteous",
+        "transcription": "sɛlf-ˈraɪʧəs",
+        "translation": "самодовольный"
+    },
+    {
+        "word": " unexpressive",
+        "transcription": "ˌʌnɪksˈprɛsɪv",
+        "translation": "невыразительный"
+    },
+    {
+        "word": " self-regulated",
+        "transcription": "sɛlf-ˈrɛɡjʊleɪtɪd",
+        "translation": "саморегулирующийся"
+    },
+    {
+        "word": " charismatic",
+        "transcription": "ˌkærɪzˈmætɪk",
+        "translation": "харизматичный"
+    },
+    {
+        "word": " confident",
+        "transcription": "ˈkɒnfɪdənt",
+        "translation": "уверенная в себе"
+    },
+    {
+        "word": " intuitive",
+        "transcription": "ɪnˈʧuːɪtɪv",
+        "translation": "интуитивно понятный"
+    },
+    {
+        "word": " unrealistic expectations",
+        "transcription": "ˌʌnrɪəˈlɪstɪk ˌɛkspɛkˈteɪʃᵊnz",
+        "translation": "нереалистичные ожидания"
+    },
+    {
+        "word": " unproductive",
+        "transcription": "ˌʌnprəˈdʌktɪv",
+        "translation": "непродуктивный"
+    },
+    {
+        "word": " afraid to face facts",
+        "transcription": "əˈfreɪd tuː feɪs fækts",
+        "translation": "боюсь смотреть в лицо фактам"
+    },
+    {
+        "word": " intimidating",
+        "transcription": "ɪnˈtɪmɪdeɪtɪŋ ",
+        "translation": "пугающий"
+    }
+]

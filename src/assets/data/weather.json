@@ -1,0 +1,172 @@
+[
+    {
+        "word": "boiling",
+        "transcription": "ˈbɔɪlɪŋ",
+        "translation": "духота"
+    },
+    {
+        "word": "breeze",
+        "transcription": "briːz",
+        "translation": "бриз (ветер)"
+    },
+    {
+        "word": "chilly",
+        "transcription": "ˈʧɪli",
+        "translation": "прохлада"
+    },
+    {
+        "word": "cool",
+        "transcription": "kuːl",
+        "translation": "прохладный"
+    },
+    {
+        "word": "damp",
+        "transcription": "dæmp",
+        "translation": "сыро, влажно"
+    },
+    {
+        "word": "drizzling",
+        "transcription": "ˈdrɪzlɪŋ",
+        "translation": "моросящий дождь"
+    },
+    {
+        "word": "freezing",
+        "transcription": "ˈfriːzɪŋ",
+        "translation": "морозно"
+    },
+    {
+        "word": "humid",
+        "transcription": "ˈhjuːmɪd",
+        "translation": "влажно"
+    },
+    {
+        "word": "mild",
+        "transcription": "maɪld",
+        "translation": "мягкая умеренно теплая погода"
+    },
+    {
+        "word": "pouring",
+        "transcription": "ˈpɔːrɪŋ",
+        "translation": "ливень"
+    },
+    {
+        "word": "showers",
+        "transcription": "ˈʃaʊəz",
+        "translation": "кратковременный ливень"
+    },
+    {
+        "word": "warm",
+        "transcription": "wɔːm",
+        "translation": "тёплая погода"
+    },
+    {
+        "word": "fog",
+        "transcription": "fɒɡ",
+        "translation": "густой туман"
+    },
+    {
+        "word": "mist",
+        "transcription": "mɪst",
+        "translation": "легкий туман"
+    },
+    {
+        "word": "smog",
+        "transcription": "smɒɡ",
+        "translation": "дым, смог"
+    },
+    {
+        "word": "blizzard",
+        "transcription": "ˈblɪzəd",
+        "translation": "метель"
+    },
+    {
+        "word": "drought",
+        "transcription": "draʊt",
+        "translation": "засуха"
+    },
+    {
+        "word": "flood",
+        "transcription": "flʌd",
+        "translation": "наводнение"
+    },
+    {
+        "word": "hail",
+        "transcription": "heɪl",
+        "translation": "град"
+    },
+    {
+        "word": "heatwave",
+        "transcription": "ˈhiːtweɪv",
+        "translation": "зной"
+    },
+    {
+        "word": "hurricane",
+        "transcription": "ˈhʌrɪkən",
+        "translation": "ураган"
+    },
+    {
+        "word": "lightning",
+        "transcription": "ˈlaɪtnɪŋ",
+        "translation": "молния"
+    },
+    {
+        "word": "monsoon",
+        "transcription": "mɒnˈsuːn",
+        "translation": "муссон, сезон дождей"
+    },
+    {
+        "word": "thunder",
+        "transcription": "ˈθʌndə",
+        "translation": "гром"
+    },
+    {
+        "word": "bright",
+        "transcription": "braɪt",
+        "translation": "ясная"
+    },
+    {
+        "word": "changeable",
+        "transcription": "ˈʧeɪnʤəbᵊl",
+        "translation": "переменчивая"
+    },
+    {
+        "word": "clear",
+        "transcription": "klɪə",
+        "translation": "чистое"
+    },
+    {
+        "word": "heavy",
+        "transcription": "ˈhɛvi",
+        "translation": "обильный, сильный"
+    },
+    {
+        "word": "icy",
+        "transcription": "ˈaɪsi",
+        "translation": "ледяной"
+    },
+    {
+        "word": "settled",
+        "transcription": "ˈsɛtld",
+        "translation": "устойчивая, стабильная, постоянная"
+    },
+    {
+        "word": "strong",
+        "transcription": "strɒŋ",
+        "translation": "сильный"
+    },
+    {
+        "word": "sunny",
+        "transcription": "ˈsʌni",
+        "translation": "солнечный"
+    },
+    {
+        "word": "thick",
+        "transcription": "θɪk",
+        "translation": "густой"
+    },
+    {
+        "word": "coast",
+        "transcription": "kəʊst ",
+        "translation": "побережье"
+    }
+]
